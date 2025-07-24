@@ -56,6 +56,9 @@ Flutter app consuming GraphQL APIs, demonstrating modern data fetching technique
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwadamme&layout=compact&theme=radical)
 
+⏱️ Coding Activity
+[![wakatime](https://wakatime.com/badge/user/9fe5f349-4103-4213-9213-d8316d52b0bc.svg)](https://wakatime.com/@9fe5f349-4103-4213-9213-d8316d52b0bc)
+
 ### 🌱 Always Learning
 
 I'm passionate about staying current with the latest technologies and best practices. Currently exploring:
@@ -76,10 +79,10 @@ I'm always excited to collaborate on interesting projects! Whether you need:
 
 ### 📫 Get In Touch
 
-- 💼 **Portfolio**: [[Your Portfolio Website](https://damilola-adeniyi.web.app/#/)]
-- 💌 **Email**: [adeniyidamilola246@gmail.com]
-- 💼 **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/adeniyi-damilola-01)]
-- 🐦 **Twitter**: [[Your Twitter Handle](https://x.com/etz_dammie)]
+- 💼 **Portfolio**: [[Portfolio](https://damilola-adeniyi.web.app/#/)]
+- 💌 **Email**: [[Email](adeniyidamilola246@gmail.com)]
+- 💼 **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/adeniyi-damilola-01)]
+- 🐦 **Twitter**: [[Twitter](https://x.com/etz_dammie)]
 
 ---
 ⭐️ From [oluwadamme](https://github.com/oluwadamme) | 🌍 Building digital solutions worldwide
